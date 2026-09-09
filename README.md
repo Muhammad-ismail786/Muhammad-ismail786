@@ -45,4 +45,36 @@
   <a href="https://www.linkedin.com/in/muhammad-ismail-6460a3322/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
+  <a href="https://www.instagram.com/ismail_pashteen0/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+       width="40" height="40" />
+</a>
+  <a href="https://www.facebook.com/ismail.roman.71/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+       width="40" height="40" />
+</a>
+   <a href="https://www.kaggle.com/muhammadismailwazir" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+       width="40" height="40" />
+</a>
+  <a href="https://x.com/IsmailWazir_" target="_blank">
+  <img src="https://img.shields.io/badge/X-Profile-black?style=for-the-badge"
+       alt="X Profile" />
+</a>
+ 
+  <a href="https://learn.365datascience.com/profile/" target="_blank">
+  <img src="https://img.shields.io/badge/365%20Data%20Science-Profile-orange?style=for-the-badge"
+       alt="365 Data Science Profile" />
+</a>
+<a href="https://www.geeksforgeeks.org/profile/mismail2k200" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge"
+       alt="GeeksforGeeks Profile" />
+</a>
+<a href="https://leetcode.com/u/mismail2k200/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge"
+       alt="LeetCode Profile" />
+</a>
+
+
+  
 </p>
