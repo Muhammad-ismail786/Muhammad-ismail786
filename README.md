@@ -18,14 +18,14 @@
 
 ### 🚀 Featured Projects
 
-* 📱 **React Native Applications**
-* ⚛️ **React Applications**
-* 🔌 **Node.js & Express REST APIs**
-* 🐹 **Go Backend Applications**
-* ⚡ **FastAPI Backend Projects**
-* 🌐 **.NET Core MVC Applications**
+* 📱 [**React Native Applications**](https://github.com/Muhammad-ismail786/Calculator_In_React_Native)
+* ⚛️ [**React Applications**](https://github.com/Muhammad-ismail786/Admin_Dashboard)
+* 🔌 [**Node.js & Express REST APIs**](https://github.com/Muhammad-ismail786/Backend_Api_Using_Express.js)
+* 🐹 [**Go Backend Applications**](https://github.com/Muhammad-ismail786/fitness-app)
+* ⚡ [**FastAPI Backend Projects**](https://github.com/Muhammad-ismail786/Metra-App)
+* 🌐 [**.NET Core MVC Applications**](https://github.com/Muhammad-ismail786/Construction_ERP)
 * 🗄️ **SQL Server & PostgreSQL Projects**
-* 🧠 **Data Structures & LeetCode Solutions**
+* 🧠 [**Data Structures & LeetCode Solutions**](https://github.com/Muhammad-ismail786/dsa-leetcode-solutions)
 
 ### 📊 GitHub Stats
 <p align="center">
