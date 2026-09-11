@@ -36,14 +36,59 @@
 
 ### 🚀 Featured Projects
 
-* 📱 [**React Native Applications**](https://github.com/Muhammad-ismail786/Calculator_In_React_Native)
-* ⚛️ [**React Applications**](https://github.com/Muhammad-ismail786/Admin_Dashboard)
-* 🔌 [**Node.js & Express REST APIs**](https://github.com/Muhammad-ismail786/Backend_Api_Using_Express.js)
-* 🐹 [**Go Backend Applications**](https://github.com/Muhammad-ismail786/fitness-app)
-* ⚡ [**FastAPI Backend Projects**](https://github.com/Muhammad-ismail786/Metra-App)
-* 🌐 [**.NET Core MVC Applications**](https://github.com/Muhammad-ismail786/Construction_ERP)
-* 🗄️ **SQL Server & PostgreSQL Projects**
-* 🧠 [**Data Structures & LeetCode Solutions**](https://github.com/Muhammad-ismail786/dsa-leetcode-solutions)
+#### 📱 React Native Applications
+
+Cross-platform mobile applications developed using **React Native**, focusing on reusable UI components, API integration, navigation, and responsive user experiences.
+
+🔗 [View React Native Projects](https://github.com/Muhammad-ismail786/Calculator_In_React_Native)
+
+#### ⚛️ React Applications
+
+Web applications built with **React**, including interactive dashboards, reusable components, frontend state management, and responsive interfaces.
+
+🔗 [View React Projects](https://github.com/Muhammad-ismail786/Admin_Dashboard)
+
+#### 🔌 Node.js & Express REST APIs
+
+Backend applications developed using **Node.js, TypeScript, and Express.js**, including RESTful APIs, authentication, database integration, validation, and business logic.
+
+🔗 [View Node.js Projects](https://github.com/Muhammad-ismail786/Backend_Api_Using_Express.js)
+
+#### 🏢 Squis API — Enterprise Backend Project
+
+Enterprise backend project built with **Node.js, TypeScript, Express.js, PostgreSQL, and Sequelize**, following a structured **Domain-Driven Design architecture** with handlers, services, repositories, schemas, models, authentication, validation, and automated testing.
+
+🔗 [View Squis API Project Overview](https://github.com/Muhammad-ismail786/squis-api-portfolio)
+
+> 🔒 The original Squis API source code is private because it is part of a company project. The public repository contains only the project overview.
+
+#### 🐹 Go Backend Applications
+
+Backend applications developed using **Go**, focusing on REST APIs, database integration, authentication, and clean backend architecture.
+
+🔗 [View Go Projects](https://github.com/Muhammad-ismail786/fitness-app)
+
+#### ⚡ FastAPI Backend Projects
+
+Modern backend applications developed using **Python and FastAPI**, including REST APIs, database operations, authentication, validation, and scalable backend architecture.
+
+🔗 [View FastAPI Projects](https://github.com/Muhammad-ismail786/Metra-App)
+
+#### 🌐 .NET Core MVC Applications
+
+Web applications developed using **C#, ASP.NET Core MVC, SQL Server, and Dapper**, including CRUD operations, database integration, AJAX functionality, and responsive UI.
+
+🔗 [View .NET Core MVC Projects](https://github.com/Muhammad-ismail786/Construction_ERP)
+
+#### 🗄️ SQL Server & PostgreSQL Projects
+
+Projects involving relational databases, including **SQL Server and PostgreSQL**, with database design, queries, stored procedures, relationships, and backend integration.
+
+#### 🧠 Data Structures & LeetCode Solutions
+
+A collection of **Data Structures & Algorithms** practice and LeetCode solutions implemented to improve problem-solving, algorithmic thinking, and coding skills.
+
+🔗 [View DSA & LeetCode Solutions](https://github.com/Muhammad-ismail786/dsa-leetcode-solutions)
 
 ### 📊 GitHub Stats
 
