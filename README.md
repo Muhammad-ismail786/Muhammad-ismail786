@@ -3,18 +3,21 @@
 ### A passionate Software Engineer from Pakistan 🇵🇰
 
 * 💻 I'm currently working as a Software Engineer
-* 🚀 Experienced in React Native and Node.js development
+* 🚀 Experienced in **Node.js, REST APIs, React Native, and backend development**
+* 🤖 Experienced in **Machine Learning, Deep Learning, Computer Vision, and Python**
+* ⚡ Experienced in building backend services using **FastAPI**
 * 🔧 Currently expanding my expertise in **.NET Core MVC**
-* 🛠️ I work with **C#, SQL Server, Dapper, Node.js, Express.js, FastAPI, Python, Go and React**
+* 🛠️ I work with **C#, SQL Server, Dapper, Node.js, Express.js, FastAPI, Python, Go, React, and PostgreSQL**
 * 📱 I have experience building cross-platform mobile applications with React Native
-* 🌱 Currently learning and improving my backend development skills
-* 💬 Ask me about **React, React Native, Node.js, Go, REST APIs, FastAPI, .NET Core MVC and SQL**
+* 🧠 Interested in building **AI-powered applications and intelligent backend systems**
+* 🌱 Currently learning and improving my **backend, AI, and problem-solving skills**
+* 💬 Ask me about **Node.js, REST APIs, FastAPI, Python, Machine Learning, Deep Learning, Computer Vision, Go, .NET Core MVC, React, and SQL**
 * 📚 I also practice **Data Structures & Algorithms and LeetCode problems**
 
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs,express,fastapi,go,react,reactnative,ts,js,postgres,docker,git,github,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs,express,fastapi,go,react,reactnative,ts,js,postgres,docker,git,github,html,css,bootstrap,tensorflow,opencv" />
 </p>
 
 ### 🏆 Achievements & Certifications
@@ -74,6 +77,12 @@ Modern backend applications developed using **Python and FastAPI**, including RE
 
 🔗 [View FastAPI Projects](https://github.com/Muhammad-ismail786/Metra-App)
 
+#### 🤖 Machine Learning & AI Projects
+
+Projects involving **Machine Learning, Deep Learning, Computer Vision, and Python**, including model development, data processing, prediction, image analysis, and AI-powered applications.
+
+🔗 [View AI/ML Projects](https://github.com/Muhammad-ismail786)
+
 #### 🌐 .NET Core MVC Applications
 
 Web applications developed using **C#, ASP.NET Core MVC, SQL Server, and Dapper**, including CRUD operations, database integration, AJAX functionality, and responsive UI.
@@ -120,8 +129,7 @@ A collection of **Data Structures & Algorithms** practice and LeetCode solutions
          width="40" height="40" />
   </a>
   <a href="https://www.kaggle.com/muhammadismailwazir" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-         width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=kaggle" width="40" />
   </a>
   <a href="https://x.com/IsmailWazir_" target="_blank">
     <img src="https://img.shields.io/badge/X-Profile-black?style=for-the-badge"
