@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Ismail
 
-### 💻 Software Engineer from Pakistan 🇵🇰
+### 💻 Software Engineer | Backend Development | Node.js | .NET Core | FastAPI | Go
 
 * 👨‍💻 I'm currently working as a **Software Engineer**
 * 🚀 Backend-focused developer with **3+ years of Node.js and REST API experience**
@@ -11,11 +11,11 @@
 * 📱 Some experience with **React Native** and mobile application development
 * ⚡ Currently expanding my skills in **.NET Core MVC, C#, and modern backend development**
 * 📚 Continuously improving my **Data Structures & Algorithms** skills through LeetCode
-* 💡 Interested in building scalable backend systems and AI-powered applications
+* 💡 Interested in building **scalable backend systems and AI-powered applications**
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs,express,fastapi,go,react,reactnative,ts,js,postgres,docker,git,github,html,css,bootstrap,tensorflow,opencv" />
@@ -25,7 +25,7 @@
 
 ## 🏆 Achievements & Certifications
 
-* 🐍 **HackerRank Python Badge**
+* 🐍 **HackerRank — Python Badge**
 * 📊 **365 Data Science — Data Strategy**
 * 📚 **365 Data Science — Introduction to Data and Data Science**
 
@@ -35,100 +35,144 @@
 
 ## 📱 React Native
 
-* **Calculator App** — React Native calculator application
-* **Metra App** — Mobile application with API integration and user flows
+### 🧮 Calculator App
+
+React Native calculator application with a clean mobile UI.
+
+### 📱 Metra App
+
+Mobile application with API integration, user flows, and backend communication.
 
 ---
 
 ## ⚛️ React
 
-* **Admin Dashboard** — React-based admin dashboard
-* Modern UI components and frontend functionality
+### 📊 Admin Dashboard
+
+React-based admin dashboard focused on reusable UI components and frontend functionality.
 
 ---
 
 ## 🟢 Node.js & Express.js
 
-* **Backend API Using Express.js** — REST API backend application
-* **Fitness App API** — Backend APIs for fitness-related functionality
-* REST APIs, authentication, database integration, and business logic
+### 🔌 Backend API Using Express.js
+
+REST API backend application built using Node.js and Express.js.
+
+* REST APIs
+* Backend business logic
+* Database integration
+* Authentication
+* API development
+
+### 🏋️ Fitness App API
+
+Backend APIs for fitness-related functionality with database and application integration.
 
 ---
 
 ## 🔐 Squis API
 
-* **Squis API Portfolio** — Backend API project demonstrating Node.js development
-* REST API architecture
-* Database integration
-* Authentication and backend functionality
+### Enterprise REST API Portfolio
 
-> Note: Private/company-related source code is kept private.
+Portfolio representation of an enterprise REST API project built using Node.js and TypeScript.
+
+* REST API architecture
+* Backend business logic
+* Database integration
+* Authentication
+* API development
+
+> 🔒 Private/company-related source code is kept private.
 
 ---
 
 ## 🐹 Go
 
-* **Fitness App Backend** — Go-based backend development
+### Fitness App Backend
+
+Go-based backend development focused on scalable REST APIs.
+
+* Go
 * REST APIs
 * PostgreSQL
 * SQLC
-* JWT authentication
-* Clean and scalable backend architecture
+* JWT Authentication
+* Backend architecture
 
 ---
 
 ## ⚡ FastAPI
 
-* FastAPI backend applications
+Backend development using **FastAPI and Python**.
+
 * REST API development
 * Authentication
 * Database integration
 * File uploads
 * AI/ML API integration
+* API documentation
 
 ---
 
 ## 🤖 AI / Machine Learning
 
-* Machine Learning projects using Python
-* Deep Learning experiments
-* Computer Vision projects
-* FastAPI-based AI APIs
-* TensorFlow and OpenCV
+Interested in building practical AI-powered applications using Python.
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* TensorFlow
+* OpenCV
+* FastAPI AI APIs
 
 ---
 
 ## 🔷 .NET Core MVC
 
-* **Construction ERP**
-* **Inventory Management**
-* ASP.NET Core MVC applications
+### Construction ERP
+
+Enterprise-style application development using:
+
+* ASP.NET Core MVC
 * C#
 * Dapper
 * SQL Server
-* AJAX CRUD operations
-* Stored procedures and database-driven features
+* AJAX
+* CRUD operations
+* Stored Procedures
+* Database-driven features
+
+### Inventory Management
+
+MVC-based inventory management functionality using:
+
+* .NET Core MVC
+* C#
+* SQL Server
+* Dapper
+* AJAX CRUD
 
 ---
 
-## 🗄️ Databases
+# 🗄️ Databases
 
 Experienced with:
 
 * Microsoft SQL Server
 * PostgreSQL
-* Database design
-* SQL queries
+* SQL Queries
 * Stored Procedures
+* Database Design
 * Dapper
 * SQLC
-* Backend database integration
+* Backend Database Integration
 
 ---
 
-## 🧩 Data Structures & Algorithms
+# 🧩 Data Structures & Algorithms
 
-I regularly practice **Data Structures and Algorithms** through LeetCode.
+I regularly practice **Data Structures & Algorithms** through LeetCode.
 
 ### Topics
 
@@ -147,22 +191,17 @@ I regularly practice **Data Structures and Algorithms** through LeetCode.
 
 My DSA solutions are organized in my GitHub repository:
 
-**DSA & LeetCode Solutions**
+👉 **[DSA & LeetCode Solutions](https://github.com/Muhammad-ismail786/dsa-leetcode-solutions)**
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muhammad-ismail786/Muhammad-ismail786/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Muhammad Ismail GitHub Stats" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Muhammad-ismail786&theme=dark&hide_border=false" alt="Muhammad Ismail GitHub Streak" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Muhammad-ismail786&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false"
+    alt="Muhammad Ismail GitHub Stats"
+  />
 </p>
 
 ---
@@ -170,21 +209,25 @@ My DSA solutions are organized in my GitHub repository:
 # 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muhammad-ismail786/Muhammad-ismail786/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" width="49%" />
-  <img src="https://raw.githubusercontent.com/Muhammad-ismail786/Muhammad-ismail786/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="49%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-ismail786&layout=compact&theme=dark&hide_border=false&langs_count=8"
+    alt="Muhammad Ismail Most Used Languages"
+  />
 </p>
 
 ---
 
-# 📈 GitHub Activity
+# 📌 GitHub Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Muhammad-ismail786/Muhammad-ismail786/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Muhammad Ismail GitHub Profile Details and Contributions" />
-</p>
+My GitHub profile automatically shows my contribution graph and contribution activity below the profile README.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Muhammad-ismail786/Muhammad-ismail786/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Muhammad Ismail Productive Time" />
-</p>
+I regularly contribute through:
+
+* 💻 Coding projects
+* 🧩 LeetCode / DSA practice
+* 🔧 Backend development
+* 🚀 Personal projects
+* 📚 Continuous learning
 
 ---
 
@@ -200,32 +243,20 @@ My DSA solutions are organized in my GitHub repository:
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <a href="https://www.kaggle.com/">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 
-<a href="https://x.com/">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+<a href="https://www.geeksforgeeks.org/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 <a href="https://365datascience.com/">
   <img src="https://img.shields.io/badge/365%20Data%20Science-FF6B35?style=for-the-badge&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 </p>
