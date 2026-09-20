@@ -113,6 +113,13 @@ A collection of **Data Structures & Algorithms** practice and LeetCode solutions
   <img src="https://muhammad-ismail-github-stats.vercel.app/api?username=Muhammad-ismail786&show_icons=true&theme=dark&hide_border=false" alt="Muhammad Ismail GitHub Stats" />
 </p>
 ---
+## 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-ismail786/Muhammad-ismail786/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-ismail786/Muhammad-ismail786/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Muhammad-ismail786/Muhammad-ismail786/output/github-snake.svg">
+</picture>
 
 ## 🔥 GitHub Streak
 
