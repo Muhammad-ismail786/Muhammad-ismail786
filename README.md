@@ -110,9 +110,8 @@ A collection of **Data Structures & Algorithms** practice and LeetCode solutions
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-ismail786&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Muhammad Ismail GitHub Stats" />
+  <img src="https://muhammad-ismail-github-stats.vercel.app/api?username=Muhammad-ismail786&show_icons=true&theme=dark&hide_border=false" alt="Muhammad Ismail GitHub Stats" />
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
