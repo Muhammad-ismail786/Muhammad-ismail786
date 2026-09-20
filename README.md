@@ -2,17 +2,16 @@
 
 ### 💻 Software Engineer from Pakistan 🇵🇰
 
-- 💻 I'm currently working as a Software Engineer
-- 🚀 Backend-focused developer with experience in **Node.js, REST APIs, and backend development**
-- 🤖 Experienced in **Machine Learning, Deep Learning, Computer Vision, and Python**
-- ⚡ Experienced in building backend services using **FastAPI**
-- 🔧 Currently expanding my expertise in **.NET Core MVC**
-- 🛠️ I work with **C#, SQL Server, Dapper, Node.js, Express.js, FastAPI, Python, Go, React, and PostgreSQL**
-- 📱 Experience building cross-platform mobile applications using **React Native**
-- 🧠 Interested in building **AI-powered applications and intelligent backend systems**
-- 🌱 Continuously improving my **backend development, AI, and problem-solving skills**
-- 💬 Ask me about **Node.js, REST APIs, FastAPI, Python, Machine Learning, Deep Learning, Computer Vision, Go, .NET Core MVC, React, and SQL**
-- 📚 I also practice **Data Structures & Algorithms and LeetCode problems**
+* 👨‍💻 I'm currently working as a **Software Engineer**
+* 🚀 Backend-focused developer with **3+ years of Node.js and REST API experience**
+* 🔧 Experienced in **Node.js, Express.js, REST APIs, FastAPI, Go, and .NET Core MVC**
+* 🧠 Interested in **Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision**
+* 🐍 Working with **Python, FastAPI, TensorFlow, and OpenCV**
+* 🗄️ Experienced with **SQL Server, PostgreSQL, Dapper, and database-driven applications**
+* 📱 Some experience with **React Native** and mobile application development
+* ⚡ Currently expanding my skills in **.NET Core MVC, C#, and modern backend development**
+* 📚 Continuously improving my **Data Structures & Algorithms** skills through LeetCode
+* 💡 Interested in building scalable backend systems and AI-powered applications
 
 ---
 
@@ -26,137 +25,213 @@
 
 ## 🏆 Achievements & Certifications
 
-### HackerRank
+* 🐍 **HackerRank Python Badge**
+* 📊 **365 Data Science — Data Strategy**
+* 📚 **365 Data Science — Introduction to Data and Data Science**
+
+---
+
+# 🚀 Featured Projects
+
+## 📱 React Native
+
+* **Calculator App** — React Native calculator application
+* **Metra App** — Mobile application with API integration and user flows
+
+---
+
+## ⚛️ React
+
+* **Admin Dashboard** — React-based admin dashboard
+* Modern UI components and frontend functionality
+
+---
+
+## 🟢 Node.js & Express.js
+
+* **Backend API Using Express.js** — REST API backend application
+* **Fitness App API** — Backend APIs for fitness-related functionality
+* REST APIs, authentication, database integration, and business logic
+
+---
+
+## 🔐 Squis API
+
+* **Squis API Portfolio** — Backend API project demonstrating Node.js development
+* REST API architecture
+* Database integration
+* Authentication and backend functionality
+
+> Note: Private/company-related source code is kept private.
+
+---
+
+## 🐹 Go
+
+* **Fitness App Backend** — Go-based backend development
+* REST APIs
+* PostgreSQL
+* SQLC
+* JWT authentication
+* Clean and scalable backend architecture
+
+---
+
+## ⚡ FastAPI
+
+* FastAPI backend applications
+* REST API development
+* Authentication
+* Database integration
+* File uploads
+* AI/ML API integration
+
+---
+
+## 🤖 AI / Machine Learning
+
+* Machine Learning projects using Python
+* Deep Learning experiments
+* Computer Vision projects
+* FastAPI-based AI APIs
+* TensorFlow and OpenCV
+
+---
+
+## 🔷 .NET Core MVC
+
+* **Construction ERP**
+* **Inventory Management**
+* ASP.NET Core MVC applications
+* C#
+* Dapper
+* SQL Server
+* AJAX CRUD operations
+* Stored procedures and database-driven features
+
+---
+
+## 🗄️ Databases
+
+Experienced with:
+
+* Microsoft SQL Server
+* PostgreSQL
+* Database design
+* SQL queries
+* Stored Procedures
+* Dapper
+* SQLC
+* Backend database integration
+
+---
+
+## 🧩 Data Structures & Algorithms
+
+I regularly practice **Data Structures and Algorithms** through LeetCode.
+
+### Topics
+
+* Arrays
+* Strings
+* Hash Maps
+* Stack
+* Linked List
+* Two Pointers
+* Searching
+* Sorting
+* Recursion
+* Problem Solving
+
+### 📝 LeetCode Solutions
+
+My DSA solutions are organized in my GitHub repository:
+
+**DSA & LeetCode Solutions**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Muhammad-ismail786/Muhammad-ismail786/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Muhammad Ismail GitHub Stats" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Muhammad-ismail786&theme=dark&hide_border=false" alt="Muhammad Ismail GitHub Streak" />
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Muhammad-ismail786/Muhammad-ismail786/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" width="49%" />
+  <img src="https://raw.githubusercontent.com/Muhammad-ismail786/Muhammad-ismail786/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="49%" />
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Muhammad-ismail786/Muhammad-ismail786/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Muhammad Ismail GitHub Profile Details and Contributions" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Muhammad-ismail786/Muhammad-ismail786/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Muhammad Ismail Productive Time" />
+</p>
+
+---
+
+# 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.hackerrank.com/profile/mismail2k200" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Python%20Badge-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Python Badge" />
-  </a>
-</p>
 
-🔗 [View my HackerRank Profile](https://www.hackerrank.com/profile/mismail2k200)
+<a href="https://github.com/Muhammad-ismail786">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### 365 Data Science
+<a href="https://linkedin.com/in/muhammad-ismail-6460a3322/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-- 📊 [**Data Strategy**](https://learn.365datascience.com/c/1308908a85/) — 14 November 2022
-- 🧠 [**Introduction to Data and Data Science**](https://learn.365datascience.com/c/ab2694bfd4/) — 08 November 2022
+<a href="https://www.instagram.com/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
----
+<a href="https://www.facebook.com/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 
-## 🚀 Featured Projects
+<a href="https://www.kaggle.com/">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
 
-### 📱 React Native Applications
+<a href="https://x.com/">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
-Cross-platform mobile applications developed using **React Native**, focusing on reusable UI components, API integration, navigation, and responsive user experiences.
+<a href="https://365datascience.com/">
+  <img src="https://img.shields.io/badge/365%20Data%20Science-FF6B35?style=for-the-badge&logoColor=white" />
+</a>
 
-🔗 [View React Native Projects](https://github.com/Muhammad-ismail786/Calculator_In_React_Native)
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 
-### ⚛️ React Applications
+<a href="https://www.geeksforgeeks.org/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
 
-Web applications built with **React**, including interactive dashboards, reusable components, frontend state management, and responsive interfaces.
-
-🔗 [View React Projects](https://github.com/Muhammad-ismail786/Admin_Dashboard)
-
-### 🔌 Node.js & Express REST APIs
-
-Backend applications developed using **Node.js, TypeScript, and Express.js**, including RESTful APIs, authentication, database integration, validation, and business logic.
-
-🔗 [View Node.js Projects](https://github.com/Muhammad-ismail786/Backend_Api_Using_Express.js)
-
-### 🏢 Squis API — Enterprise Backend Project
-
-Enterprise backend project built with **Node.js, TypeScript, Express.js, PostgreSQL, and Sequelize**, following a structured **Domain-Driven Design architecture** with handlers, services, repositories, schemas, models, authentication, validation, and automated testing.
-
-🔗 [View Squis API Project Overview](https://github.com/Muhammad-ismail786/squis-api-portfolio)
-
-> 🔒 The original Squis API source code is private because it is part of a company project. The public repository contains only the project overview.
-
-### 🐹 Go Backend Applications
-
-Backend applications developed using **Go**, focusing on REST APIs, database integration, authentication, and clean backend architecture.
-
-🔗 [View Go Projects](https://github.com/Muhammad-ismail786/fitness-app)
-
-### ⚡ FastAPI Backend Projects
-
-Modern backend applications developed using **Python and FastAPI**, including REST APIs, database operations, authentication, validation, and scalable backend architecture.
-
-🔗 [View FastAPI Projects](https://github.com/Muhammad-ismail786/Metra-App)
-
-### 🤖 Machine Learning & AI Projects
-
-Projects involving **Machine Learning, Deep Learning, Computer Vision, and Python**, including model development, data processing, prediction, image analysis, and AI-powered applications.
-
-🔗 [View AI/ML Projects](https://github.com/Muhammad-ismail786)
-
-### 🌐 .NET Core MVC Applications
-
-Web applications developed using **C#, ASP.NET Core MVC, SQL Server, and Dapper**, including CRUD operations, database integration, AJAX functionality, and responsive UI.
-
-🔗 [View .NET Core MVC Projects](https://github.com/Muhammad-ismail786/Construction_ERP)
-
-### 🗄️ SQL Server & PostgreSQL Projects
-
-Projects involving relational databases, including **SQL Server and PostgreSQL**, with database design, queries, stored procedures, relationships, and backend integration.
-
-### 🧠 Data Structures & LeetCode Solutions
-
-A collection of **Data Structures & Algorithms** practice and LeetCode solutions implemented to improve problem-solving, algorithmic thinking, and coding skills.
-
-🔗 [View DSA & LeetCode Solutions](https://github.com/Muhammad-ismail786/dsa-leetcode-solutions)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-ismail786&show_icons=true&theme=tokyonight&hide_border=true" alt="Muhammad Ismail GitHub Stats" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+### ⭐ Thanks for visiting my profile!
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Muhammad-ismail786&theme=tokyonight&hide_border=true" alt="Muhammad Ismail GitHub Streak" />
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/Muhammad-ismail786" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-ismail-6460a3322/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/ismail_pashteen0/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.facebook.com/ismail.roman.71/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.kaggle.com/muhammadismailwazir" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://x.com/IsmailWazir_" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://learn.365datascience.com/profile/" target="_blank">
-    <img src="https://img.shields.io/badge/365%20Data%20Science-Profile-F47C20?style=for-the-badge" alt="365 Data Science" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/mismail2k200" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-  <a href="https://leetcode.com/u/mismail2k200/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
+**Feel free to explore my repositories and projects.**
