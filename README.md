@@ -3,15 +3,15 @@
 💻 **Software Engineer from Pakistan 🇵🇰**
 
 * 💻 I'm currently working as a Software Engineer
-* 🚀 Backend-focused developer with experience in **Node.js, REST APIs, and backend development**
+* 🚀 Backend-focused developer with experience in **Go, Node.js, REST APIs, and backend development**
 * 🤖 Experienced in **Machine Learning, Deep Learning, Computer Vision, and Python**
 * ⚡ Experienced in building backend services using **FastAPI**
-* 🔧 Currently expanding my expertise in **.NET Core MVC**
-* 🛠️ I work with **C#, SQL Server, Dapper, Node.js, Express.js, FastAPI, Python, Go, React, and PostgreSQL**
+* 🔧 Experienced in **.NET Core MVC**
+* 🛠️ I work with **Go, C#, SQL Server, Dapper, Node.js, Express.js, FastAPI, Python, React, and PostgreSQL**
 * 📱 Experience building cross-platform mobile applications using **React Native**
 * 🧠 Interested in building **AI-powered applications and intelligent backend systems**
-* 🌱 Continuously improving my **backend development, AI, and problem-solving skills**
-* 💬 Ask me about **Node.js, REST APIs, FastAPI, Python, Machine Learning, Deep Learning, Computer Vision, Go, .NET Core MVC, React, and SQL**
+* 🌱 Continuously improving my **backend development, system design, AI, and problem-solving skills**
+* 💬 Ask me about **Go, Node.js, REST APIs, FastAPI, Python, Machine Learning, Deep Learning, Computer Vision, .NET Core MVC, React, and SQL**
 * 📚 I also practice **Data Structures & Algorithms and LeetCode problems**
 
 ---
@@ -71,11 +71,15 @@ Enterprise backend project built with **Node.js, TypeScript, Express.js, Postgre
 
 > 🔒 The original Squis API source code is private because it is part of a company project. The public repository contains only the project overview.
 
-### 🐹 Go Backend Applications
+### 🐹 Robotinn Delivery Platform — Go Backend
 
-Backend applications developed using **Go**, focusing on REST APIs, database integration, authentication, and clean backend architecture.
+A production-oriented **delivery platform backend** built with **Go (Golang), Gin, PostgreSQL, JWT, REST APIs, and WebSocket**, following **Onion Architecture** and a modular monolith approach.
 
-🔗 [View Go Projects](https://github.com/Muhammad-ismail786/fitness-app)
+The platform is designed to support **Customer, Rider, and Admin** workflows, including authentication, role-based access control, customer profiles, addresses, order management, rider assignment, rider order workflows, and real-time delivery capabilities.
+
+**Tech Stack:** Go · Gin · PostgreSQL · JWT · REST API · WebSocket · Onion Architecture · Modular Monolith
+
+> 🔒 **Private Client Project** — The source code is private and is not publicly available.
 
 ### ⚡ FastAPI Backend Projects
 
