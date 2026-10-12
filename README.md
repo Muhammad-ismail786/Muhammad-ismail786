@@ -111,11 +111,43 @@ A collection of **Data Structures & Algorithms** practice and LeetCode solutions
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://muhammad-ismail-github-stats.vercel.app/api?username=Muhammad-ismail786&show_icons=true&theme=dark&hide_border=false" alt="Muhammad Ismail GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Muhammad-ismail786&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Muhammad Ismail GitHub Stats"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-ismail786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Muhammad-ismail786&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+</p>
+
+
+---
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="./trophy.svg"
+    alt="Muhammad Ismail GitHub Trophies"
+  />
+</p>
+
 
 ---
 
