@@ -7,7 +7,7 @@
 * 🤖 Experienced in **Machine Learning, Deep Learning, Computer Vision, and Python**
 * ⚡ Experienced in building backend services using **FastAPI**
 * 🔧 Experienced in **.NET Core MVC**
-* 🛠️ I work with **Go, C#, SQL Server, Dapper, Node.js, Express.js, FastAPI, Python, React, and PostgreSQL**
+* 🛠️ I work with **Go, Rust, C#, SQL Server, Dapper, Node.js, Express.js, FastAPI, Python, React, and PostgreSQL**
 * 📱 Experience building cross-platform mobile applications using **React Native**
 * 🧠 Interested in building **AI-powered applications and intelligent backend systems**
 * 🌱 Continuously improving my **backend development, system design, AI, and problem-solving skills**
