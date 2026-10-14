@@ -19,7 +19,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs,express,fastapi,go,react,reactnative,ts,js,postgres,docker,git,github,html,css,bootstrap,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs,express,fastapi,go,rust,react,reactnative,ts,js,postgres,docker,git,github,html,css,bootstrap,tensorflow,opencv" />
 </p>
 
 ---
