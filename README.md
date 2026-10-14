@@ -20,7 +20,6 @@
 ---
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs,express,fastapi,go,rust,cpp,react,reactnative,ts,js,postgres,docker,git,github,html,css,bootstrap,tensorflow,opencv" />
-  <img src="https://cdn.simpleicons.org/reactnative/61DAFB" height="48" alt="React Native" />
 </p>
 
 ---
