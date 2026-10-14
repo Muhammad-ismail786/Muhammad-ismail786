@@ -19,7 +19,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs,express,fastapi,go,rust,react,reactnative,ts,js,postgres,docker,git,github,html,css,bootstrap,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs,express,fastapi,go,rust,c++,react,reactnative,ts,js,postgres,docker,git,github,html,css,bootstrap,tensorflow,opencv" />
 </p>
 
 ---
@@ -121,12 +121,14 @@ A collection of **Data Structures & Algorithms** practice and LeetCode solutions
   />
 </p>
 
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-ismail786&layout=compact&theme=tokyonight&hide_border=true&langs_count=20"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-ismail786&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&cache_seconds=1800"
     alt="Top Languages"
   />
 </p>
+
 
 <p align="center">
   <img
