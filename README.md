@@ -123,7 +123,7 @@ A collection of **Data Structures & Algorithms** practice and LeetCode solutions
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-ismail786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-ismail786&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
     alt="Top Languages"
   />
 </p>
