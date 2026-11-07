@@ -116,19 +116,17 @@ A collection of **Data Structures & Algorithms** practice and LeetCode solutions
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Muhammad-ismail786&show_icons=true&theme=tokyonight&hide_border=true"
+    src="./profile/stats.svg"
     alt="Muhammad Ismail GitHub Stats"
   />
 </p>
 
-
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-ismail786&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&cache_seconds=1800"
+    src="./profile/top-langs.svg"
     alt="Top Languages"
   />
 </p>
-
 
 <p align="center">
   <img
@@ -136,6 +134,7 @@ A collection of **Data Structures & Algorithms** practice and LeetCode solutions
     alt="GitHub Streak Stats"
   />
 </p>
+
 
 
 ---
